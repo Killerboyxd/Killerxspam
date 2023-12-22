@@ -140,7 +140,7 @@ def Run_SpamX():
     print(""" \n\n
      ╒═══════════════════════════╕
       Your SpamX has been Deployed!!
-      Visit @RiZoeLX for updates!
+      Visit @ll_SABKA_BHAI_KILLER_ll for updates!
      ╘═══════════════════════════╛
     """)
     idle()
